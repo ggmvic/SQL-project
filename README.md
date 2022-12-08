@@ -1,5 +1,5 @@
 # Data Model for a fleet of  company cars 
-## Project for KeepCoding’s SQL course 
+## Project for KeepCoding’s SQL course - María Victoria García Gómez
 
 ### Objectives: 
 
